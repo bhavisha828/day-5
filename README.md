@@ -1,2 +1,2 @@
-# day-5
+# PHP-day5
 php internship day 5
